@@ -7,10 +7,7 @@ description: >
 twitter_username: hoyt_hillary
 github_username:  hillaryhoyt
 linkedin_username: hchoyt
-  
- 
-  
-  theme: minima
-  plugins:
-  - jekyll-feed
-  - jekyll-sitemap 
+theme: minima
+plugins:
+- jekyll-feed
+- jekyll-sitemap 
