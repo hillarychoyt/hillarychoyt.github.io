@@ -13,9 +13,9 @@ combined biology/psychology degree.
 I still jumped around a lot, between cognition, lingutistics, learning 
 and memory, and computer science, before going on my first coop (a 
 full-time, 6 month internship between semsesters)at Harvard Medical 
-School's Datta Lab. There, I investigated the role of the Ms4a family 
-of olfactory receptors, which are different from conventional olfactory 
-receptors due to having multiple types of receptors on a single neuron. 
+School's [Datta Lab](http://datta.hms.harvard.edu/). There, I investigated the role of olfactoy nuerons expressing the [Ms4a](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR030417/) family 
+of receptors, which are different from conventional olfactory 
+neurons due to having multiple types of receptors on a single neuron. 
 I investigated these pathways through social transmission of food 
 preferencce experiments in mice, as well as through innate preference 
 experiments. I also tracked the movement of the mice in these 
