@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: A Killing of Worlds Review
+title: The Risen Empire Review
 date: 2023-12-28 12:04:17 -0500
 tags: books
 ---
