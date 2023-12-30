@@ -30,10 +30,9 @@ Northeastern's Brain Awareness week, and I was fascinated by the
 questions of motor control. I joined the [Action Lab](https://web.northeastern.edu/actionlab/) at Northeastern, and worked on investigating the role of learning and primitive 
 dynamics in a whip-to-target task. 
 
-Around the same time, I took a class called Brain, Behavior, and Immunity, about the connection between the immune system and neurological systems. The gut-brain axis, how people behave when they are sick and why they do it, the way that the brain can influence the immune system and vice versa; it was my first structured study into the immune system, and I was hooked. For my next coop, I started working in the Cancer Immunotherapy team at Vor Biopharma, investigating edited T cells to treat blood cancers. I was hooked, and have been working there ever since!
+Around the same time, I took a class called Brain, Behavior, and Immunity, about the connection between the immune system and neurological systems. The gut-brain axis, how people behave when they are sick and why they do it, the way that the brain can influence the immune system and vice versa; it was my first structured study into the immune system, and I was hooked. For my next coop, I started working in the Cancer Immunotherapy team at [Vor Biopharma](https://www.vorbio.com/), investigating edited T cells to treat blood cancers. I was hooked, and have been working there ever since!
 
-My ORCID is <img src="https://orcid.org/sites/default/files/images/orcid_16x16(1).gif" alt="ORCID" />
-[https://orcid.org/0000-0002-8084-7249](https://orcid.org/0000-0003-4423-4370).
+My ORCID is [https://orcid.org/0000-0002-8084-7249](https://orcid.org/0000-0002-8084-7249).
 
 Outside of academics and work, I enjoy running, playing ultimate frisbee, reading, baking, 
 and dancing. 
